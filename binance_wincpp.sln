@@ -10,7 +10,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1C775B72-9497-423F-9B8E-65C07D8D7331}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
-		reademe.txt = reademe.txt
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "test", "test\test.vcxproj", "{7D631F2E-ACDA-4995-A90C-B5BE0DE86C20}"
